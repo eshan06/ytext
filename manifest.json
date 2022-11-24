@@ -1,0 +1,11 @@
+{
+    "name": "Test",
+    "version": "1.0.0",
+    "description": "This is an extension",
+    "manifest_version": 3,
+    "author": "E",
+    "action": {
+        "default_popup": "/templates/index.html",
+        "default_title": "boss"
+    }
+}
